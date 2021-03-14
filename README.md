@@ -9,3 +9,8 @@ A single page web project that has the functions of a todo list.
 - Delete items from the list.
 - Filter items by their status: completed, uncompleted.
 - Save to localStorage, so that the list is there after refresh.
+
+![web-page](web-page.png)
+![web-page](completed.png)
+![web-page](uncompleted.png)
+
